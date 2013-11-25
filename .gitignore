@@ -16,10 +16,11 @@
 *.exe
 *.out
 *.app
+doom
 
 # Config stuff:
 Makefile
 config.cache
 config.log
 config.status
-
+confdefs.h
