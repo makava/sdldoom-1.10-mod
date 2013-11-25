@@ -16,3 +16,10 @@
 *.exe
 *.out
 *.app
+
+# Config stuff:
+Makefile
+config.cache
+config.log
+config.status
+
